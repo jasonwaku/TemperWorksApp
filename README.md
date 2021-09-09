@@ -21,7 +21,7 @@ https://github.com/jasonwaku/TemperWorksApp.git
 10. [Testing] testing ViewModels
 11. [Testing] testing of RxJava
 
-##API endpoint example 
+## API endpoint example 
 
 API Endpoint: https://temper.works/api/v3/shifts?filter[date]=2021-07-19
 
